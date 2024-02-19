@@ -1,10 +1,3 @@
-# DeepLearning.AI TensorFlow Developer Coursera
-
-This repository was created to collect my self-notes, codes and solutions of every videos / reading materials / questions / quizes / exercises while learning [TensorFlow Developer course](https://www.coursera.org/professional-certificates/tensorflow-in-practice) on Coursera by DeepLearning.AI taught by [Laurence Moroney](https://www.coursera.org/instructor/lmoroney). 
-
-## TensorFlow
-TensorFlow is one of the most in-demand and popular open-source deep learning frameworks available today. The DeepLearning.AI TensorFlow Developer Professional Certificate program teaches you applied machine learning skills with TensorFlow so you can build and train powerful models.
-
 ## Course Topics
 The topics covered in this course are:
 1. [Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning](https://www.coursera.org/learn/introduction-tensorflow)
@@ -27,6 +20,3 @@ The topics covered in this course are:
     * [Week 2]() Deep Neural Networks for Time Series
     * [Week 3]() Recurrent Neural Networks for Time Series
     * [Week 4]() Real-world time series data
-
-## Certificate of Completion
-coming-soon.
